@@ -1,0 +1,18 @@
+{
+  "name": "Messenger Bot",
+  "version": "1.0.0",
+  "description": "App that sends your custom message to your facebook friend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Messenger-Bot"
+  ],
+  "author": "Shubham",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "puppeteer": "^1.13.0"
+  }
+}
